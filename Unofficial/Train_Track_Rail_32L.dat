@@ -1,0 +1,26 @@
+0 Train Track Rail 32L
+0 Name: Train_Track_Rail_32L.dat
+0 Author: Ronald Vallenduuk [Duq]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 300 0 0 1 0 0 0 1 0 0 0 1 s/ME_Rail_End.dat
+1 16 -300 0 0 -1 0 0 0 1 0 0 0 -1 s/ME_Rail_End.dat
+1 16 0 -8 0 300 0 0 0 -8 0 0 0 -3.334 box3u8p.dat
+1 16 0 -4 -6.667 300 0 0 0 -4 0 0 0 -3.333 box2-11.dat
+1 16 0 -4 6.667 -300 0 0 0 -4 0 0 0 3.333 box2-11.dat
+2 24 300 0 10 -300 0 10
+2 24 300 0 -10 -300 0 -10
+0 BFC INVERTNEXT
+1 16 0 0 0 296 0 0 0 -5 0 0 0 6 box5.dat
+4 16 -300 0 10 -296 0 6 -296 0 -6 -300 0 -10
+4 16 -300 0 -10 -296 0 -6 296 0 -6 300 0 -10
+4 16 300 0 -10 296 0 -6 296 0 6 300 0 10
+4 16 300 0 10 296 0 6 -296 0 6 -300 0 10
+1 16 -250 -5 0 1 0 0 0 -1.25 0 0 0 1 stug3-1x4.dat
+1 16 -140 -5 0 1 0 0 0 -1.25 0 0 0 1 stug3-1x7.dat
+1 16 0 -5 0 1 0 0 0 -1.25 0 0 0 1 stug3-1x7.dat
+1 16 140 -5 0 1 0 0 0 -1.25 0 0 0 1 stug3-1x7.dat
+1 16 250 -5 0 1 0 0 0 -1.25 0 0 0 1 stug3-1x4.dat
