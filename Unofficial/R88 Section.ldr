@@ -1,0 +1,12 @@
+0 Untitled
+0 Name: R88 Section.ldr
+0 Author: Ronald 'Duq' Vallenduuk
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 172.51 0 -8.475 -0.995185 0 -0.0980171 0 1 0 0.0980171 0 -0.995185 Track_Connector_2x8.dat
+1 16 -172.51 0 -8.475 0.995185 0 -0.0980171 0 1 0 0.0980171 0 0.995185 Track_Connector_2x8.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 3034.dat
+1 72 0 0 -50 1 0 0 0 1 0 0 0 1 Train_Track_Curved_R88_Inner.dat
+1 72 0 0 50 1 0 0 0 1 0 0 0 1 Train_Track_Curved_R88_Outer.dat
+0

@@ -1,0 +1,14 @@
+0 Untitled
+0 Name: R56 Section.ldr
+0 Author: Ronald 'Duq' Vallenduuk
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 -218.501 0 -21.52 0.980785 0 -0.19509 0 1 0 0.19509 0 0.980785 Track_Connector_2x8.dat
+1 16 218.501 0 -21.52 -0.980785 0 -0.19509 0 1 0 0.19509 0 -0.980785 Track_Connector_2x8.dat
+1 16 -109.779 0 -5.393 0.0980171 0 0.995185 0 1 0 -0.995185 0 0.0980171 3034.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 3034.dat
+1 16 109.779 0 -5.393 -0.0980171 0 0.995185 0 1 0 -0.995185 0 -0.0980171 3034.dat
+1 72 0 0 -50 1 0 0 0 1 0 0 0 1 Train_Track_Curved_R56_Inner.dat
+1 72 0 0 50 1 0 0 0 1 0 0 0 1 Train_Track_Curved_R56_Outer.dat
+0
