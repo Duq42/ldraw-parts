@@ -1,9 +1,9 @@
-0 Untitled
-0 Name: R72 Section.ldr
-0 Author: Ronald 'Duq' Vallenduuk
-0 Unofficial Model
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
+0 Train Track Curved R72 Section
+0 Name: Train_Track_Curved_R72_Section.dat
+0 Author: Ronald Vallenduuk [Duq]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
 1 16 280.93 0 -27.67 -0.980785 0 -0.19509 0 1 0 0.19509 0 -0.980785 Track_Connector_2x8.dat
 1 16 -141.145 0 -6.93 0.0980171 0 0.995185 0 1 0 -0.995185 0 0.0980171 3034.dat
 1 16 0 0 0 0 0 1 0 1 0 -1 0 0 3034.dat
