@@ -1,0 +1,14 @@
+0 Train Track Curved R104 Section
+0 Name: Train_Track_Curved_R104_Section.dat
+0 Author: Ronald Vallenduuk [Duq]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+1 16 -203.876 0 -10.015 0.99518 0 -0.09802 0 1 0 0.09802 0 0.99518 Track_Connector_2x8.dat
+1 16 203.876 0 -10.015 -0.99518 0 -0.09802 0 1 0 0.09802 0 -0.99518 Track_Connector_2x8.dat
+1 16 -102.061 0 -2.505 0.04907 0 0.99879 0 1 0 -0.99879 0 0.04907 3034.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 3034.dat
+1 16 102.061 0 -2.505 -0.04907 0 0.99879 0 1 0 -0.99879 0 -0.04907 3034.dat
+1 72 0 0 -50 1 0 0 0 1 0 0 0 1 Train_Track_Curved_R104_Inner.dat
+1 72 0 0 50 1 0 0 0 1 0 0 0 1 Train_Track_Curved_R104_Outer.dat
+0

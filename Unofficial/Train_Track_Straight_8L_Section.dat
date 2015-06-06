@@ -1,0 +1,12 @@
+0 Train Track Straight 8L Section
+0 Name: Train_Track_Straight_8L_Section.dat
+0 Author: Ronald Vallenduuk [Duq]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+1 16 0 0 -80 0 0 -1 0 1 0 1 0 0 Track_Connector_3x8.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 3034.dat
+1 16 0 0 80 0 0 1 0 1 0 -1 0 0 Track_Connector_3x8.dat
+1 72 -50 0 0 0 0 1 0 1 0 -1 0 0 Train_Track_Rail_8L.dat
+1 72 50 0 0 0 0 1 0 1 0 -1 0 0 Train_Track_Rail_8L.dat
+0

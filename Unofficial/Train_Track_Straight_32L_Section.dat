@@ -1,0 +1,18 @@
+0 Train Track Straight 32L Section
+0 Name: Train_Track_Straight_32L_Section.dat
+0 Author: Ronald Vallenduuk [Duq]
+0 !LDRAW_ORG Unofficial_Shortcut
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 BFC CERTIFY CCW
+1 16 -320 0 0 1 0 0 0 1 0 0 0 1 Track_Connector_3x8.dat
+1 16 -240 0 0 0 0 1 0 1 0 -1 0 0 3034.dat
+1 16 -160 0 0 0 0 1 0 1 0 -1 0 0 3034.dat
+1 16 -80 0 0 0 0 1 0 1 0 -1 0 0 3034.dat
+1 16 0 0 0 0 0 1 0 1 0 -1 0 0 3034.dat
+1 16 80 0 0 0 0 1 0 1 0 -1 0 0 3034.dat
+1 16 160 0 0 0 0 1 0 1 0 -1 0 0 3034.dat
+1 16 240 0 0 0 0 1 0 1 0 -1 0 0 3034.dat
+1 16 320 0 0 -1 0 0 0 1 0 0 0 -1 Track_Connector_3x8.dat
+1 72 0 0 50 1 0 0 0 1 0 0 0 1 Train_Track_Rail_32L.dat
+1 72 0 0 -50 1 0 0 0 1 0 0 0 1 Train_Track_Rail_32L.dat
+0
